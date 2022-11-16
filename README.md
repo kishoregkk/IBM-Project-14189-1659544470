@@ -63,7 +63,7 @@ Sri Sai Ram Engineering College
 
 **Frontend:** Html+Css
 
-**Backend:** Python, Flask 
+**Backend:** Python, Flask ,Anacconda,IBM cloud
 
 **Database:** IBM DB2
 
